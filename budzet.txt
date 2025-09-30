@@ -1,0 +1,4 @@
+typ;kwota;opis;kategoria
+WYDATEK;50.0;Pizza;Jedzenie
+PRZYCHOD;2000.0;Wypłata;Praca
+WYDATEK;100.0;Koszulka;Ubrania
